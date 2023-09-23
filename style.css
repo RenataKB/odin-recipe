@@ -1,0 +1,35 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: aliceblue;
+  color: #063e7f;
+}
+
+h1 {
+  font-size: 36px;
+  color: #076adc;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+p, li {
+  font-size: 18px;
+}
+
+a:visited {
+  color: darkviolet;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
